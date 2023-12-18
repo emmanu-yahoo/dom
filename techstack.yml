@@ -1,7 +1,8 @@
 repo_name: emmanu-yahoo/dom
-report_id: b7828cdf5730d5773a30ce5e45f4dee7
+report_id: 522ef2575a29179f06fb9509a03ca01e
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-15T13:35:01+00:00'
+timestamp: '2023-12-18T13:01:24+00:00'
 requested_by: FilipJirsak
 provider: github
 branch: master
@@ -11,7 +12,7 @@ tools:
   description: A concurrent, class-based, object-oriented, language specifically designed
     to have as few implementation dependencies as possible
   website_url: https://www.java.com
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
@@ -20,7 +21,7 @@ tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
@@ -30,7 +31,7 @@ tools:
   description: A powerful build system for the JVM
   website_url: https://www.gradle.org/
   license: Apache-2.0
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Java Build Tools
@@ -42,7 +43,7 @@ tools:
   description: A testing framework inspired from JUnit and NUnit
   website_url: http://testng.org/doc/
   license: Apache-2.0
-  open_source: true
+  open_source: false
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
@@ -55,7 +56,7 @@ tools:
     projects
   website_url: http://travis-ci.com/
   open_source: false
-  hosted_saas: true
+  hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
