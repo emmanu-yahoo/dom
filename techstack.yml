@@ -1,18 +1,18 @@
 repo_name: emmanu-yahoo/dom
-report_id: 522ef2575a29179f06fb9509a03ca01e
+report_id: fb4fd6055969ca784351be67d3893411
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T13:01:24+00:00'
+timestamp: '2023-12-22T17:48:47+00:00'
 requested_by: FilipJirsak
 provider: github
 branch: master
-detected_tools_count: 6
+detected_tools_count: 8
 tools:
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
     to have as few implementation dependencies as possible
   website_url: https://www.java.com
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
@@ -21,7 +21,7 @@ tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
@@ -31,7 +31,7 @@ tools:
   description: A powerful build system for the JVM
   website_url: https://www.gradle.org/
   license: Apache-2.0
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Java Build Tools
@@ -43,7 +43,7 @@ tools:
   description: A testing framework inspired from JUnit and NUnit
   website_url: http://testng.org/doc/
   license: Apache-2.0
-  open_source: false
+  open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
@@ -56,7 +56,7 @@ tools:
     projects
   website_url: http://travis-ci.com/
   open_source: false
-  hosted_saas: false
+  hosted_saas: true
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
@@ -71,3 +71,29 @@ tools:
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
   detection_source: Repo Metadata
+- name: jaxen:jaxen
+  description: Jaxen is a universal XPath engine for Java
+  version: 1.1.6
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/emmanu-yahoo/dom/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Filip Jirsák
+  last_updated_on: 2018-07-01 10:04:29.000000000 Z
+- name: org.testng:testng
+  description: Testing framework for Java
+  version: 6.8.21
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/emmanu-yahoo/dom/blob/master/build.gradle
+  detection_source: build.gradle
+  last_updated_by: Carlos Amengual
+  last_updated_on: 2020-04-19 13:39:06.000000000 Z
