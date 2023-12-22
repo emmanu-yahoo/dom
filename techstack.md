@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [emmanu-yahoo/dom](https://github.com/emmanu-yahoo/dom)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|12/18/23 <br/>Report generated|
+|8<br/>Tools used|12/22/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -96,6 +96,16 @@ Full tech stack [here](/techstack.md)
 
 </tr>
 </table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (2)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (2)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[jaxen:jaxen](http://www.cafeconleche.org/jaxen)|v1.1.6|07/01/18|Filip Jirsák |DSDP|N/A|
+|[org.testng:testng](http://github.com/cbeust/testng)|v6.8.21|04/19/20|Carlos Amengual |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
