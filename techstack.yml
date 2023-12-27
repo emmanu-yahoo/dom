@@ -1,12 +1,12 @@
 repo_name: emmanu-yahoo/dom
-report_id: 34fde5b25f0f8c94adb6112af09baa4c
+report_id: b02a979aef8a8c5bc1ee9e4976ed60d7
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-27T15:53:23+00:00'
+timestamp: '2023-12-27T19:11:51+00:00'
 requested_by: FilipJirsak
 provider: github
 branch: master
-detected_tools_count: 8
+detected_tools_count: 6
 tools:
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -71,29 +71,3 @@ tools:
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
   detection_source: Repo Metadata
-- name: jaxen:jaxen
-  description: Jaxen is a universal XPath engine for Java
-  version: 1.1.6
-  license: DSDP
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/emmanu-yahoo/dom/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: Filip Jirsák
-  last_updated_on: 2018-07-01 10:04:29.000000000 Z
-- name: org.testng:testng
-  description: Testing framework for Java
-  version: 6.8.21
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Maven Packages
-  image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/emmanu-yahoo/dom/blob/master/build.gradle
-  detection_source: build.gradle
-  last_updated_by: Carlos Amengual
-  last_updated_on: 2020-04-19 13:39:06.000000000 Z
